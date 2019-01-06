@@ -8,6 +8,7 @@ public class OtxApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OtxApplication.class, args);
+		System.out.println("test");
 	}
 
 }
